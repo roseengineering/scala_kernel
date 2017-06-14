@@ -9,4 +9,4 @@ you can try this kernel.
 To install scala\_kernel, run in this directory the script install.sh.
 The script requires pip and python3 and uses sudo.
 
-
+Copyright 2017 roseengineering
